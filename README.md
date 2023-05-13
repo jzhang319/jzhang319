@@ -1,11 +1,10 @@
 ### Hi there 👋
-var WordLink = require('word-link');
-var text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit.";
+
 * 🔭 I’m currently working on Structy Pratice Problems.
 * 🌱 I’m currently learning tailwind css.
 * 👯 I’m looking to collaborate on data-driven, computational web applications.
 * 🤔 I’m looking for help with hosting of large databases.
-* 📫 How to reach me: LinkedIn
+* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jack-zhang-1ba90929/)
 * 😄 Pronouns: He/Him
 * ⚡ Fun fact: My hobbies are saltwater aquariums, flying drones, and remote control cars(gas).
 
