@@ -4,7 +4,7 @@
 * 🌱 I’m currently learning React, Redux, and Flask.
 * 👯 I’m looking to collaborate on data-driven, computational web applications.
 * 🤔 I’m looking for help with application deployment; the hosting of large databases.
-* 📫 How to reach me: 
+* 📫 How to reach me: LinkedIn
 * 😄 Pronouns: He/Him
 * ⚡ Fun fact: My hobbies are saltwater aquariums, flying drones, and remote control cars(gas).
 
