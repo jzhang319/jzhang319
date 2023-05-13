@@ -10,6 +10,11 @@
 
 ## 🧰 Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,python,htm,css,git,docker" />
+  </a>
+</p>
 <!--
 **jzhang319/jzhang319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
