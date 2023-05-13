@@ -1,9 +1,10 @@
 ### Hi there 👋
-
+var WordLink = require('word-link');
+var text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit.";
 * 🔭 I’m currently working on Structy Pratice Problems.
-* 🌱 I’m currently learning React, Redux, and Flask.
+* 🌱 I’m currently learning tailwind css.
 * 👯 I’m looking to collaborate on data-driven, computational web applications.
-* 🤔 I’m looking for help with application deployment; the hosting of large databases.
+* 🤔 I’m looking for help with hosting of large databases.
 * 📫 How to reach me: LinkedIn
 * 😄 Pronouns: He/Him
 * ⚡ Fun fact: My hobbies are saltwater aquariums, flying drones, and remote control cars(gas).
