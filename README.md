@@ -9,10 +9,9 @@
 * ⚡ Fun fact: My hobbies are saltwater aquariums, flying drones, and remote control cars(gas).
 
 ## 🧰 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,htm,css,git,docker" />
+    <img src="https://skillicons.dev/icons?i=js,py,react,html,css,flask,sequelize,postgres,github,docker" />
   </a>
 </p>
 <!--
