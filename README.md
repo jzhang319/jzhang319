@@ -6,7 +6,7 @@
 * 🤔 I’m looking for help with hosting of large databases.
 * 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jack-zhang-1ba90929/)
 * 😄 Pronouns: He/Him
-* ⚡ Fun fact: My hobbies are saltwater aquariums, flying drones, and remote control cars(gas).
+* ⚡ Fun fact: My hobbies are saltwater aquariums, flying drones, and gas remote control cars.
 
 ## 🧰 Languages and Tools:
 <p align="center">
