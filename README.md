@@ -12,11 +12,11 @@ During my free time, I've been contributing as a software engineer at Coursect, 
 
 Technologies and Experience
 
-My most recent solo project was built with Python and Django backend which I really enjoy working with after graduating from App Academy. During the bootcamp I learned how to build backend servers with the Express framework in the NodeJS environment for a number of my other projects (such as Where-will-i-stay-bnb and Pixelgram linked below).
+My recent solo project, developed post-App Academy, features a Python and Django backend, a tech combo I thoroughly enjoy. During the bootcamp, I honed my backend skills using the Express framework in the NodeJS environment for various projects, including "Where-will-i-stay-bnb" and "Pixelgram" (linked below).
 
-I build my own front ends and have extensive experience with Javascript React, and Redux. I have built front end components using HTML from scratch and style with vanilla CSS but have recently found a love for building my frontends using Materil UI components.
+I take pride in crafting my own front ends, showcasing expertise in JavaScript, React, and Redux. Building front end components from scratch with HTML and styling them with vanilla CSS has been a staple, but lately, I've developed a fondness for creating frontends using Material UI components.
 
-Additionally I have experience using both relational and non-relational databses. My projects have utilized SQL, PostgreSQL and MongoDB.
+On the database front, I bring experience with both relational and non-relational databases. My projects have seamlessly integrated SQL, PostgreSQL, and MongoDB. Check out my work below!
 
 * 🔭 I’m currently working on Structy Pratice Problems.
 * 🌱 I’m currently learning tailwind css.
