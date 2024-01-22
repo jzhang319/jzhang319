@@ -16,7 +16,7 @@ My recent solo project, developed post-App Academy, features a Python and Django
 
 I take pride in crafting my own front ends, showcasing expertise in JavaScript, React, and Redux. Building front-end components from scratch with HTML and styling them with vanilla CSS has been a staple, but lately, I've developed a fondness for creating frontends using Material UI components.
 
-On the database front, I bring experience with both relational and non-relational databases. My projects have seamlessly integrated SQL, PostgreSQL, and MongoDB. Check out my work below!
+On the database front, I bring experience with both relational and non-relational databases. My projects have seamlessly integrated SQL, PostgreSQL, and MySQL. Check out my work below!
 
 * 🔭 I’m currently working on Structy Practice Problems.
 * 🌱 I’m currently learning tailwind css.
