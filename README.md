@@ -8,7 +8,7 @@ My coding journey sparked unconsciously when I crafted a custom quadratic formul
 
 Currently
 
-I've been contributing as a software engineer at Coursect, developing a tutoring platform that leverages the OpenAI API. We focus on aiding students in grades 8 to 12 with their math, chemistry, and physics studies. Our tech stack includes JavaScript with React for the front end and Python with Flask for server functionality. Excited about the impact of technology on education.
+I've been contributing as a software engineer at Coursect Inc., developing a tutoring platform that leverages the OpenAI API. We focus on aiding students in grades 8 to 12 with their math, chemistry, and physics studies. Our tech stack includes JavaScript with React for the front end and Python with Flask for server functionality. Excited about the impact of technology on education.
 
 Technologies and Experience
 
