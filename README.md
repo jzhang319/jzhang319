@@ -10,11 +10,11 @@ My coding journey sparked unconsciously when I crafted a custom quadratic formul
 
 Currently
 
-I've been contributing as a software engineer at Coursect Inc., developing a tutoring platform that leverages the OpenAI API. We focus on aiding students in grades 8 to 12 with their math, chemistry, and physics studies. Our tech stack includes JavaScript with React for the front end and Python with Flask for server functionality. Excited about the impact of technology on education.
+I've been contributing as a software engineer at Coursect Inc., developing a tutoring platform that leverages the OpenAI, and Google API. We focus on aiding students in grades 8 to 12 with their math, chemistry, and physics studies. Our tech stack includes JavaScript with React for the front end and Python with Flask for server functionality. Excited about the impact of technology on education.
 
 Technologies and Experience
 
-My recent solo project, developed post-App Academy, features a Python and Django backend, a tech combo I thoroughly enjoy. During the boot camp, I honed my backend skills using the Express framework in the NodeJS environment for various projects, including "Where-will-i-stay-bnb" and "Pixelgram" (linked below).
+My recent solo project, developed post-App Academy, features a Python, Django backend and Javascript, React for the frontend, a tech combo I thoroughly enjoy. During the boot camp, I also honed my backend skills using the Express framework in the NodeJS environment for various projects, including "Pixelgram",  "Where-will-i-stay-bnb" and "Question Overflow" (links below).
 
 I take pride in crafting my own front ends, showcasing expertise in JavaScript, React, and Redux. Building front-end components from scratch with HTML and styling them with vanilla CSS has been a staple, but lately, I've developed a fondness for creating frontends using Material UI components.
 
