@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jzhang319&hide=contribs,prs)
+
 ## Hi there 👋 My name is Jack Zhang!
 I am a Full-Stack Software Engineer, living in DC Metro Area.
 
@@ -19,12 +19,12 @@ I take pride in crafting my own front ends, showcasing expertise in JavaScript, 
 On the database front, I bring experience with both relational and non-relational databases. My projects have seamlessly integrated SQL, PostgreSQL, and MySQL. Check out my work below!
 
 * 🔭 I’m currently working on Structy Practice Problems.
-* 🌱 I’m currently learning tailwind css.
-* 👯 I’m looking to collaborate on data-driven, computational web applications.
+* 🌱 I’m currently learning Next.JS.
+* 👯 I’m looking to collaborate on data-driven, web applications.
 * 🤔 I’m looking for help with hosting large databases.
 * 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jack-zhang-1ba90929/)
 * 😄 Pronouns: He/Him
-* ⚡ Fun fact: My hobbies are saltwater aquariums, flying drones, and gas remote control cars.
+* ⚡ Fun fact: My hobbies are saltwater aquariums, 3D printing, flying drones, gas RC cars, and almost anything DIY.
 
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -32,6 +32,7 @@ On the database front, I bring experience with both relational and non-relationa
     <img src="https://skillicons.dev/icons?i=js,py,react,html,css,flask,sequelize,postgres,github,docker" />
   </a>
 </p>
+
 <!--
 **jzhang319/jzhang319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -47,3 +48,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jzhang319)](https://github.com/anuraghazra/github-readme-stats)
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jzhang319&hide=contribs,prs)
