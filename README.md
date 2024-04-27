@@ -1,4 +1,4 @@
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jzhang319&hide=contribs,prs)
 ## Hi there 👋 My name is Jack Zhang!
 I am a Full-Stack Software Engineer, living in DC Metro Area.
 
