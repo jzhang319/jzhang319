@@ -29,7 +29,7 @@ On the database front, I bring experience with both relational and non-relationa
 ## 🧰 Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,react,html,css,flask,sequelize,postgres,github,docker" />
+    <img src="https://skillicons.dev/icons?i=js,py,react,redux,html,css,flask,sequelize,express,npm,sqlite,postgres,github,postman,docker,nextjs,tailwind,gcp,ai" />
   </a>
 </p>
 
