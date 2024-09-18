@@ -10,11 +10,11 @@ I am a Full-Stack Software Engineer, living in DC Metro Area.
 * 😄 Pronouns: He/Him
 * ⚡ Fun fact: My hobbies are saltwater aquariums, 3D printing, flying drones, gas RC cars, and almost anything DIY.
 
-My Story
+My Story:
 
 **My coding journey sparked unconsciously when I crafted a custom quadratic formula program on a TI-89 calculator in high school.** Fast forward to the beginning of 2022, during the lockdown, I enrolled in and completed the top-ranked full-stack software engineering boot camp at App Academy. There, I delved into full-stack web development, gaining versatile skills to tackle various tech stacks. App Academy not only equipped me with the tools to learn anything I set my mind to but also deepened my understanding and technical ability to explain concepts to others effectively. I am excited about continuous learning and building meaningful projects!
 
-Currently
+Currently:
 
 I've been contributing as a software engineer at Coursect Inc., developing a tutoring platform that leverages the OpenAI, and Google API. We focus on aiding students in grades 8 to 12 with their math, chemistry, and physics studies. Our tech stack includes JavaScript with React for the front end and Python with Flask for server functionality. Excited about the impact of technology on education.
 
