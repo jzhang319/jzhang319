@@ -46,9 +46,6 @@ TOML         1 hr 28 mins    █░░░░░░░░░░░░░░░░
 JSON         12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
-<!--END_SECTION:SHOW_LINES_OF_CODE-->
-<!--START_SECTION:SHOW_LINES_OF_CODE-->
-
 <!--END_SECTION:waka-->
 <!--
 **jzhang319/jzhang319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
