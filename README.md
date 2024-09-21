@@ -35,7 +35,6 @@ On the database front, I bring experience with both relational and non-relationa
 </p>
 
 <!--START_SECTION:waka-->
-SHOW_LINES_OF_CODE:True
 <!--END_SECTION:waka-->
 
 <!--
