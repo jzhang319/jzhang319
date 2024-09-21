@@ -34,6 +34,8 @@ On the database front, I bring experience with both relational and non-relationa
   </a>
 </p>
 
+
+## My Weekly Coding Time:
 <!--START_SECTION:waka-->
 
 ```txt
