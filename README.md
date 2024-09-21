@@ -36,7 +36,7 @@ On the database front, I bring experience with both relational and non-relationa
 
 
 ## Weekly Development Breakdown:
-<!--START_SECTION:SHOW_LINES_OF_CODE-->
+<!--START_SECTION:waka-->
 
 ```txt
 Other        26 hrs 39 mins  ████████████████▓░░░░░░░░   67.05 %
@@ -46,4 +46,4 @@ TOML         1 hr 28 mins    █░░░░░░░░░░░░░░░░
 JSON         12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
-<!--END_SECTION:SHOW_LINES_OF_CODE-->
+<!--END_SECTION:waka-->
