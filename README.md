@@ -35,6 +35,15 @@ On the database front, I bring experience with both relational and non-relationa
 </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+Other        26 hrs 39 mins  ████████████████▓░░░░░░░░   67.05 %
+Python       7 hrs 45 mins   █████░░░░░░░░░░░░░░░░░░░░   19.51 %
+JavaScript   3 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+TOML         1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+JSON         12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
