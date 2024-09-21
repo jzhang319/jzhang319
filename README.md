@@ -8,7 +8,7 @@ I am a Full-Stack Software Engineer, living in DC Metro Area.
 * 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jack-zhang-1ba90929/)
 * 🔭 My Portfolio website: [Portfolio](https://www.jackzhang.io)
 * 😄 Pronouns: He/Him/His
-* ⚡ Fun fact: My hobbies are saltwater aquariums, 3D printing, flying drones, gas RC cars, and almost anything DIY.
+* ⚡ Fun fact: My hobbies are from saltwater aquariums, 3D printing, flying drones, gas RC cars to construction. It's almost anything DIY, I am down to get my hands dirty.
 
 My Story:
 
