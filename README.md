@@ -34,6 +34,11 @@ On the database front, I bring experience with both relational and non-relationa
   </a>
 </p>
 
+<!--START_SECTION:waka-->
+SHOW_LINES_OF_CODE
+
+<!--END_SECTION:waka-->
+
 <!--
 **jzhang319/jzhang319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
