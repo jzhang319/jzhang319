@@ -7,7 +7,7 @@ I am a Full-Stack Software Engineer, living in DC Metro Area.
 * 🤔 I’m looking for help with hosting large databases.
 * 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jack-zhang-1ba90929/)
 * 🔭 My Portfolio website: [Portfolio](https://www.jackzhang.io)
-* 😄 Pronouns: He/Him
+* 😄 Pronouns: He/Him/His
 * ⚡ Fun fact: My hobbies are saltwater aquariums, 3D printing, flying drones, gas RC cars, and almost anything DIY.
 
 My Story:
