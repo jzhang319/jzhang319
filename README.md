@@ -35,7 +35,7 @@ On the database front, I bring experience with both relational and non-relationa
 </p>
 
 
-## My Weekly Coding Time:
+## Weekly Development Breakdown:
 <!--START_SECTION:waka-->
 
 ```txt
@@ -47,7 +47,3 @@ JSON         12 mins         ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-
-<!--START_SECTION:SHOW_TOTAL_CODE_TIME-->
-<!--END_SECTION:#HOW_TOTAL_CODE_TIME-->
