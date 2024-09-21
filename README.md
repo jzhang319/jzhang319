@@ -47,19 +47,7 @@ JSON         12 mins         ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-<!--
-**jzhang319/jzhang319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Structy Pratice Problems.
-- 🌱 I’m currently learning React, Redux, and Flask.
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
-
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jzhang319)](https://github.com/anuraghazra/github-readme-stats)
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jzhang319&hide=contribs,prs)
+<!--START_SECTION:#SHOW_TOTAL_CODE_TIME-->
+<!--END_SECTION:#SHOW_TOTAL_CODE_TIME-->
