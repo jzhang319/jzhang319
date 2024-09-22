@@ -35,31 +35,19 @@ On the database front, I bring experience with both relational and non-relationa
 
 ## My Development Analysis:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-973%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-974%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-193-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-222-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-88.7%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 216.1 kB Used in GitHub's Storage 
- > 
-> 🏆 1,291 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 20 Public Repositories 
- > 
-> 🔑 52 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                867 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-🌆 Daytime                6485 commits        ██████████░░░░░░░░░░░░░░░   40.22 % 
-🌃 Evening                6357 commits        ██████████░░░░░░░░░░░░░░░   39.43 % 
-🌙 Night                  2415 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+🌆 Daytime                6487 commits        ██████████░░░░░░░░░░░░░░░   40.22 % 
+🌃 Evening                6361 commits        ██████████░░░░░░░░░░░░░░░   39.44 % 
+🌙 Night                  2415 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
 ```
 
 
@@ -94,5 +82,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2024 01:06:59 UTC
+ Last Updated on 22/09/2024 02:30:07 UTC
 <!--END_SECTION:waka-->
