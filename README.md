@@ -33,7 +33,7 @@ On the database front, I bring experience with both relational and non-relationa
 </p>
 
 
-## Weekly Development Breakdown:
+## My Development Analysis:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-973%20hrs%208%20mins-blue)
 
