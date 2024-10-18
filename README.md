@@ -35,7 +35,7 @@ On the database front, I bring experience with both relational and non-relationa
 
 ## My Development Analysis:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C055%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C052%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -66,11 +66,11 @@ Mac                      8 hrs 38 mins       ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               65 repos            █████████████████░░░░░░░░   67.01 % 
-Python                   15 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+JavaScript               65 repos            █████████████████░░░░░░░░   66.33 % 
+Python                   15 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 ```
 
 
@@ -80,5 +80,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2024 02:29:00 UTC
+ Last Updated on 18/10/2024 04:05:43 UTC
 <!--END_SECTION:waka-->
