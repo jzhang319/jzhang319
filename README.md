@@ -35,7 +35,7 @@ On the database front, I bring experience with both relational and non-relationa
 
 ## My Development Analysis:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C334%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C338%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -55,15 +55,15 @@ On the database front, I bring experience with both relational and non-relationa
 
 ```text
 💬 Programming Languages: 
-Other                    13 hrs 38 mins      ████████████░░░░░░░░░░░░░   46.15 % 
-Python                   9 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   33.55 % 
-HTML                     5 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-JavaScript               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Other                    10 hrs 19 mins      ███████████░░░░░░░░░░░░░░   42.62 % 
+Python                   9 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   40.85 % 
+HTML                     3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Mac                      18 hrs 3 mins       ███████████████░░░░░░░░░░   61.12 % 
-Windows                  11 hrs 29 mins      ██████████░░░░░░░░░░░░░░░   38.88 % 
+Mac                      14 hrs 6 mins       ███████████████░░░░░░░░░░   58.31 % 
+Windows                  10 hrs 5 mins       ██████████░░░░░░░░░░░░░░░   41.69 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -83,5 +83,5 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 11/02/2025 06:07:32 UTC
+ Last Updated on 11/02/2025 08:07:37 UTC
 <!--END_SECTION:waka-->
