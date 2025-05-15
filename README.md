@@ -35,7 +35,7 @@ On the database front, I bring experience with both relational and non-relationa
 
 ## My Development Analysis:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C647%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C650%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -55,15 +55,15 @@ On the database front, I bring experience with both relational and non-relationa
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   37.72 % 
-HTML                     5 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   33.08 % 
-Other                    2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-JavaScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Python                   6 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   35.81 % 
+HTML                     6 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   34.56 % 
+Other                    2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+JavaScript               1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 
 💻 Operating System: 
-Windows                  12 hrs 12 mins      ████████████████████░░░░░   78.11 % 
-Mac                      3 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+Windows                  13 hrs 46 mins      ███████████████████░░░░░░   76.19 % 
+Mac                      4 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -83,5 +83,5 @@ TSQL                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2025 04:08:13 UTC
+ Last Updated on 15/05/2025 08:07:13 UTC
 <!--END_SECTION:waka-->
