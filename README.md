@@ -35,9 +35,9 @@ On the database front, I bring experience with both relational and non-relationa
 
 ## My Development Analysis:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C655%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C651%20hrs%2052%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-166.9%20million%20lines%20of%20code-blue)
 
@@ -55,15 +55,15 @@ On the database front, I bring experience with both relational and non-relationa
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   38.47 % 
-HTML                     5 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   35.13 % 
-Other                    2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-JavaScript               56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Python                   6 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   40.89 % 
+Other                    4 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   26.36 % 
+HTML                     3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+JavaScript               56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 
 💻 Operating System: 
-Windows                  12 hrs 43 mins      ███████████████████░░░░░░   74.69 % 
-Mac                      4 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
+Windows                  10 hrs 16 mins      ████████████████░░░░░░░░░   62.07 % 
+Mac                      6 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   37.93 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -83,5 +83,5 @@ TSQL                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2025 02:33:34 UTC
+ Last Updated on 17/05/2025 08:05:59 UTC
 <!--END_SECTION:waka-->
