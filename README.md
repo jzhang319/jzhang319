@@ -35,7 +35,7 @@ On the database front, I bring experience with both relational and non-relationa
 
 ## My Development Analysis:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C729%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C733%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -55,15 +55,15 @@ On the database front, I bring experience with both relational and non-relationa
 
 ```text
 💬 Programming Languages: 
-Other                    8 hrs 41 mins       ██████████████████░░░░░░░   72.85 % 
-HTML                     2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-CSS                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Python                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Other                    11 hrs 53 mins      ██████████████████████░░░   86.83 % 
+JavaScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+HTML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Python                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Mac                      8 hrs 55 mins       ███████████████████░░░░░░   74.94 % 
-Windows                  2 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
+Mac                      12 hrs 53 mins      ████████████████████████░   94.18 % 
+Windows                  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -83,5 +83,5 @@ TSQL                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2025 04:10:49 UTC
+ Last Updated on 13/06/2025 06:07:15 UTC
 <!--END_SECTION:waka-->
