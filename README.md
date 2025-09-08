@@ -35,7 +35,7 @@ On the database front, I bring experience with both relational and non-relationa
 
 ## My Development Analysis:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C976%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C982%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -55,15 +55,15 @@ On the database front, I bring experience with both relational and non-relationa
 
 ```text
 💬 Programming Languages: 
-Other                    29 hrs 9 mins       ██████████████████████░░░   86.47 % 
-HTML                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-Python                   1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Bash                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-JavaScript               34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Other                    26 hrs 45 mins      █████████████████████░░░░   83.50 % 
+JavaScript               1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+HTML                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Python                   59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 💻 Operating System: 
-Mac                      31 hrs 10 mins      ███████████████████████░░   92.46 % 
-Windows                  2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Mac                      29 hrs 29 mins      ███████████████████████░░   92.06 % 
+Windows                  2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -83,5 +83,5 @@ TSQL                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2025 04:06:46 UTC
+ Last Updated on 08/09/2025 06:06:37 UTC
 <!--END_SECTION:waka-->
