@@ -35,7 +35,7 @@ On the database front, I bring experience with both relational and non-relationa
 
 ## My Development Analysis:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C094%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C094%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -55,14 +55,14 @@ On the database front, I bring experience with both relational and non-relationa
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 12 mins       ██████████████████░░░░░░░   72.79 % 
-Python                   26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Bash                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Other                    2 hrs 12 mins       ██████████████████░░░░░░░   72.57 % 
+HTML                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Bash                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Python                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 
 💻 Operating System: 
-Mac                      2 hrs 12 mins       ██████████████████░░░░░░░   72.95 % 
-Windows                  49 mins             ███████░░░░░░░░░░░░░░░░░░   27.05 % 
+Mac                      2 hrs 15 mins       ███████████████████░░░░░░   74.12 % 
+Windows                  47 mins             ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,5 +82,5 @@ TSQL                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2025 06:06:53 UTC
+ Last Updated on 21/11/2025 10:08:00 UTC
 <!--END_SECTION:waka-->
