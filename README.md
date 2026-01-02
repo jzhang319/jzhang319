@@ -35,7 +35,7 @@ On the database front, I bring experience with both relational and non-relationa
 
 ## My Development Analysis:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C170%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C170%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -55,15 +55,15 @@ On the database front, I bring experience with both relational and non-relationa
 
 ```text
 💬 Programming Languages: 
-Other                    6 hrs 40 mins       ███████████░░░░░░░░░░░░░░   43.98 % 
-HTML                     3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-CSS                      2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Python                   1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Other                    7 hrs 8 mins        ███████████░░░░░░░░░░░░░░   45.65 % 
+HTML                     3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+CSS                      2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+Python                   1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 💻 Operating System: 
-Windows                  8 hrs 30 mins       ██████████████░░░░░░░░░░░   56.01 % 
-Mac                      6 hrs 40 mins       ███████████░░░░░░░░░░░░░░   43.99 % 
+Windows                  8 hrs 30 mins       ██████████████░░░░░░░░░░░   54.34 % 
+Mac                      7 hrs 9 mins        ███████████░░░░░░░░░░░░░░   45.66 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -83,5 +83,5 @@ TSQL                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 06:06:52 UTC
+ Last Updated on 02/01/2026 08:06:46 UTC
 <!--END_SECTION:waka-->
