@@ -35,7 +35,7 @@ On the database front, I bring experience with both relational and non-relationa
 
 ## My Development Analysis:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C261%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C264%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -55,15 +55,15 @@ On the database front, I bring experience with both relational and non-relationa
 
 ```text
 💬 Programming Languages: 
-Other                    10 hrs 30 mins      ████████████████░░░░░░░░░   64.57 % 
-HTML                     2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-Python                   1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-CSS                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Other                    13 hrs 14 mins      ████████████████████░░░░░   80.24 % 
+Python                   1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+HTML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+CSS                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Markdown                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 💻 Operating System: 
-Mac                      10 hrs 40 mins      ████████████████░░░░░░░░░   65.61 % 
-Windows                  5 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   34.39 % 
+Mac                      13 hrs 17 mins      ████████████████████░░░░░   80.54 % 
+Windows                  3 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -83,5 +83,5 @@ TSQL                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 07/02/2026 06:14:21 UTC
+ Last Updated on 07/02/2026 08:07:55 UTC
 <!--END_SECTION:waka-->
