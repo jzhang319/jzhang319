@@ -41,6 +41,31 @@ On the database front, I bring experience with both relational and non-relationa
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-136.11%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1399 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+🌆 Daytime                4619 commits        ███████░░░░░░░░░░░░░░░░░░   26.80 % 
+🌃 Evening                8963 commits        █████████████░░░░░░░░░░░░   52.00 % 
+🌙 Night                  2255 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    9 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   39.22 % 
+Python                   4 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+HTML                     3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Markdown                 2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+CSS                      1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+
+💻 Operating System: 
+Windows                  15 hrs 55 mins      █████████████████░░░░░░░░   66.57 % 
+Mac                      7 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   33.43 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -58,5 +83,5 @@ TSQL                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2026 07:28:35 UTC
+ Last Updated on 18/05/2026 09:18:43 UTC
 <!--END_SECTION:waka-->
