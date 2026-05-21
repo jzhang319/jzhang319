@@ -35,19 +35,19 @@ On the database front, I bring experience with both relational and non-relationa
 
 ## My Development Analysis:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C459%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C457%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-130.47%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-96.77%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1399 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-🌆 Daytime                4601 commits        ███████░░░░░░░░░░░░░░░░░░   26.80 % 
-🌃 Evening                8921 commits        █████████████░░░░░░░░░░░░   51.96 % 
-🌙 Night                  2247 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+🌞 Morning                1369 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+🌆 Daytime                4165 commits        ███████░░░░░░░░░░░░░░░░░░   26.41 % 
+🌃 Evening                8085 commits        █████████████░░░░░░░░░░░░   51.27 % 
+🌙 Night                  2151 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
 ```
 
 
@@ -83,5 +83,5 @@ TSQL                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2026 20:52:54 UTC
+ Last Updated on 21/05/2026 22:51:40 UTC
 <!--END_SECTION:waka-->
