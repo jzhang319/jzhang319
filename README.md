@@ -35,9 +35,36 @@ On the database front, I bring experience with both relational and non-relationa
 
 ## My Development Analysis:
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C460%20hrs%203%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-147.34%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-152.98%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1415 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+🌆 Daytime                4883 commits        ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+🌃 Evening                9527 commits        █████████████░░░░░░░░░░░░   52.52 % 
+🌙 Night                  2315 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 3 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   27.81 % 
+Other                    2 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
+Python                   2 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+HTML                     2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Bash                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+
+💻 Operating System: 
+Windows                  8 hrs 37 mins       █████████████████░░░░░░░░   68.86 % 
+Mac                      3 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   31.14 % 
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -56,5 +83,5 @@ TSQL                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2026 05:24:41 UTC
+ Last Updated on 23/05/2026 07:13:53 UTC
 <!--END_SECTION:waka-->
