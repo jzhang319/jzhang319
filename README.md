@@ -35,7 +35,7 @@ On the database front, I bring experience with both relational and non-relationa
 
 ## My Development Analysis:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C460%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C461%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -69,11 +69,11 @@ Mac                      3 hrs 13 mins       ███████░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               76 repos            ████████████████░░░░░░░░░   64.41 % 
-Python                   18 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-HTML                     10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-TypeScript               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-TSQL                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+JavaScript               76 repos            ████████████████░░░░░░░░░   63.87 % 
+Python                   18 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+HTML                     10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+TypeScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+TSQL                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 ```
 
 
@@ -83,5 +83,5 @@ TSQL                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 24/05/2026 22:28:49 UTC
+ Last Updated on 25/05/2026 00:39:43 UTC
 <!--END_SECTION:waka-->
