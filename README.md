@@ -35,6 +35,8 @@ On the database front, I bring experience with both relational and non-relationa
 
 ## My Development Analysis:
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C504%20hrs%2015%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-152.99%20million%20lines%20of%20code-blue?style=flat)
@@ -53,15 +55,15 @@ On the database front, I bring experience with both relational and non-relationa
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
-HTML                     3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-Markdown                 2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-TypeScript               1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Other                    1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Python                   3 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
+HTML                     3 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+Other                    1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+JavaScript               1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Markdown                 1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
 
 💻 Operating System: 
-Windows                  12 hrs 5 mins       █████████████████░░░░░░░░   66.31 % 
-Mac                      6 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   33.69 % 
+Windows                  12 hrs 3 mins       ███████████████████░░░░░░   74.88 % 
+Mac                      4 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -81,5 +83,5 @@ TSQL                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2026 05:37:22 UTC
+ Last Updated on 07/06/2026 07:27:04 UTC
 <!--END_SECTION:waka-->
