@@ -39,15 +39,15 @@ On the database front, I bring experience with both relational and non-relationa
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-136.16%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-83.83%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1407 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-🌆 Daytime                4779 commits        ███████░░░░░░░░░░░░░░░░░░   26.85 % 
-🌃 Evening                9331 commits        █████████████░░░░░░░░░░░░   52.43 % 
-🌙 Night                  2279 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+🌞 Morning                1335 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+🌆 Daytime                3490 commits        ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
+🌃 Evening                7573 commits        █████████████░░░░░░░░░░░░   53.72 % 
+🌙 Night                  1698 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
 ```
 
 
@@ -83,5 +83,5 @@ TSQL                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 16/06/2026 17:58:32 UTC
+ Last Updated on 16/06/2026 19:28:28 UTC
 <!--END_SECTION:waka-->
