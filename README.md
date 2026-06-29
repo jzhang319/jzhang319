@@ -35,19 +35,19 @@ On the database front, I bring experience with both relational and non-relationa
 
 ## My Development Analysis:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C544%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C544%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-153.13%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-153.14%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                1455 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-🌆 Daytime                4963 commits        ███████░░░░░░░░░░░░░░░░░░   27.09 % 
-🌃 Evening                9576 commits        █████████████░░░░░░░░░░░░   52.27 % 
-🌙 Night                  2326 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+🌆 Daytime                4963 commits        ███████░░░░░░░░░░░░░░░░░░   27.08 % 
+🌃 Evening                9584 commits        █████████████░░░░░░░░░░░░   52.29 % 
+🌙 Night                  2328 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
 ```
 
 
@@ -55,15 +55,15 @@ On the database front, I bring experience with both relational and non-relationa
 
 ```text
 💬 Programming Languages: 
-HTML                     4 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   27.99 % 
-Python                   3 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-Markdown                 3 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Other                    3 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-JavaScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+HTML                     4 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   27.80 % 
+Python                   3 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
+Markdown                 3 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+Other                    2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+JavaScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 
 💻 Operating System: 
-Windows                  12 hrs 19 mins      ██████████████████░░░░░░░   73.23 % 
-Mac                      4 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   26.77 % 
+Windows                  12 hrs 19 mins      ███████████████████░░░░░░   75.80 % 
+Mac                      3 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -83,5 +83,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 29/06/2026 05:37:15 UTC
+ Last Updated on 29/06/2026 07:40:02 UTC
 <!--END_SECTION:waka-->
