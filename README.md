@@ -35,19 +35,19 @@ On the database front, I bring experience with both relational and non-relationa
 
 ## My Development Analysis:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C556%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C557%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-147.59%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-153.23%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1499 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-🌆 Daytime                4909 commits        ███████░░░░░░░░░░░░░░░░░░   27.05 % 
-🌃 Evening                9419 commits        █████████████░░░░░░░░░░░░   51.90 % 
-🌙 Night                  2323 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+🌞 Morning                1505 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+🌆 Daytime                5026 commits        ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+🌃 Evening                9652 commits        █████████████░░░░░░░░░░░░   52.09 % 
+🌙 Night                  2347 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
 ```
 
 
@@ -69,10 +69,10 @@ Mac                      20 mins             █░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               76 repos            ████████████████░░░░░░░░░   63.33 % 
-HTML                     10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-TypeScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-TSQL                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+JavaScript               76 repos            ████████████████░░░░░░░░░   62.81 % 
+Python                   18 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+HTML                     10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+TypeScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 
@@ -83,5 +83,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 06/07/2026 21:30:50 UTC
+ Last Updated on 06/07/2026 23:04:11 UTC
 <!--END_SECTION:waka-->
