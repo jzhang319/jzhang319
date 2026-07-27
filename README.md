@@ -35,7 +35,9 @@ On the database front, I bring experience with both relational and non-relationa
 
 ## My Development Analysis:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C604%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C222%20hrs%2042%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-217%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -66,6 +68,31 @@ Windows                  11 hrs 42 mins      ███████████�
 Mac                      1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 11 hrs 30 mins (88.68%)
+
+✍️ 2,330 lines written by AI, 3 lines written by hand (99.87% AI-written)
+
+🔤 286,285,333 Input Tokens, 772,659 Output Tokens
+
+💵 $1451.83 Estimated AI Cost This Week
+
+🧠 25 AI Sessions, 161 AI Prompts
+
+Opus                     2,493 lines         █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.87% of written lines came from AI
+📚 Verbose Prompter — average 2,760 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.28% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -83,5 +110,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 12:59:42 UTC
+ Last Updated on 27/07/2026 16:17:03 UTC
 <!--END_SECTION:waka-->
