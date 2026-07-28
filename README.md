@@ -35,9 +35,63 @@ On the database front, I bring experience with both relational and non-relationa
 
 ## My Development Analysis:
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C225%20hrs%203%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-220%20hrs%2022%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-153.28%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-147.64%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1592 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+🌆 Daytime                4958 commits        ███████░░░░░░░░░░░░░░░░░░   26.91 % 
+🌃 Evening                9482 commits        █████████████░░░░░░░░░░░░   51.46 % 
+🌙 Night                  2394 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 4 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   34.52 % 
+Python                   3 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   26.41 % 
+Other                    1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+JavaScript               1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+HTML                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+
+💻 Operating System: 
+Windows                  11 hrs 31 mins      ██████████████████████░░░   89.15 % 
+Mac                      1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 11 hrs 23 mins (88.14%)
+
+✍️ 2,855 lines written by AI, 3 lines written by hand (99.9% AI-written)
+
+🔤 270,446,970 Input Tokens, 810,816 Output Tokens
+
+💵 $1370.02 Estimated AI Cost This Week
+
+🧠 30 AI Sessions, 153 AI Prompts
+
+Opus                     3,014 lines         █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.9% of written lines came from AI
+📚 Verbose Prompter — average 2,458 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.23% of changed lines were hand-edited
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -56,5 +110,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 05:02:30 UTC
+ Last Updated on 28/07/2026 08:25:06 UTC
 <!--END_SECTION:waka-->
