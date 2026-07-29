@@ -35,9 +35,9 @@ On the database front, I bring experience with both relational and non-relationa
 
 ## My Development Analysis:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C225%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C230%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-220%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-225%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -49,7 +49,7 @@ On the database front, I bring experience with both relational and non-relationa
 🌞 Morning                1598 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
 🌆 Daytime                5074 commits        ███████░░░░░░░░░░░░░░░░░░   26.97 % 
 🌃 Evening                9724 commits        █████████████░░░░░░░░░░░░   51.68 % 
-🌙 Night                  2418 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+🌙 Night                  2420 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
 ```
 
 
@@ -57,40 +57,40 @@ On the database front, I bring experience with both relational and non-relationa
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   34.52 % 
-Python                   3 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   26.41 % 
-Other                    1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-JavaScript               1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-HTML                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+Python                   3 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
+HTML                     2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Markdown                 2 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+CSS                      2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Other                    1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
 
 💻 Operating System: 
-Windows                  11 hrs 31 mins      ██████████████████████░░░   89.15 % 
-Mac                      1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Windows                  14 hrs 3 mins       ██████████████████████░░░   90.00 % 
+Mac                      1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 23 mins (88.14%)
+⏱ AI Coding Time: 13 hrs 56 mins (89.23%)
 
-✍️ 2,855 lines written by AI, 3 lines written by hand (99.9% AI-written)
+✍️ 3,310 lines written by AI, 2 lines written by hand (99.94% AI-written)
 
-🔤 270,446,970 Input Tokens, 810,816 Output Tokens
+🔤 387,012,598 Input Tokens, 1,100,984 Output Tokens
 
-💵 $1370.02 Estimated AI Cost This Week
+💵 $1953.77 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 153 AI Prompts
+🧠 28 AI Sessions, 212 AI Prompts
 
-Opus                     3,014 lines         █████████████████████████   100.00 % 
+Opus                     3,647 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.9% of written lines came from AI
-📚 Verbose Prompter — average 2,458 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.23% of changed lines were hand-edited
+🤖 AI-Driven — 99.94% of written lines came from AI
+📄 Detailed Prompter — average 1,227 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.44% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -110,5 +110,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 05:05:26 UTC
+ Last Updated on 29/07/2026 08:29:30 UTC
 <!--END_SECTION:waka-->
