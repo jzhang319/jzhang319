@@ -35,9 +35,9 @@ On the database front, I bring experience with both relational and non-relationa
 
 ## My Development Analysis:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C240%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C243%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-235%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-237%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -49,7 +49,7 @@ On the database front, I bring experience with both relational and non-relationa
 🌞 Morning                1601 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
 🌆 Daytime                5084 commits        ███████░░░░░░░░░░░░░░░░░░   26.97 % 
 🌃 Evening                9725 commits        █████████████░░░░░░░░░░░░   51.59 % 
-🌙 Night                  2440 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+🌙 Night                  2442 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
 ```
 
 
@@ -57,39 +57,39 @@ On the database front, I bring experience with both relational and non-relationa
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   36.62 % 
-Markdown                 2 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   31.16 % 
-Python                   1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-Bash                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Markdown                 2 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   30.43 % 
+Python                   2 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   29.86 % 
+Other                    2 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+Bash                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+HTML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 13 mins       ████████████████████░░░░░   79.24 % 
-Mac                      1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+Windows                  8 hrs 38 mins       ██████████████████████░░░   88.17 % 
+Mac                      1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 45 mins (60.53%)
+⏱ AI Coding Time: 6 hrs 59 mins (71.43%)
 
-✍️ 545 lines written by AI, 5 lines written by hand (99.09% AI-written)
+✍️ 1,642 lines written by AI, 5 lines written by hand (99.7% AI-written)
 
-🔤 43,982,548 Input Tokens, 243,998 Output Tokens
+🔤 64,099,291 Input Tokens, 354,276 Output Tokens
 
-💵 $280.36 Estimated AI Cost This Week
+💵 $383.70 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 50 AI Prompts
+🧠 16 AI Sessions, 79 AI Prompts
 
-Opus                     870 lines           █████████████████████████   100.00 % 
+Opus                     1,991 lines         █████████████████████████   100.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.09% of written lines came from AI
-📄 Detailed Prompter — average 532 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.48% of changed lines were hand-edited
+🤖 AI-Driven — 99.7% of written lines came from AI
+📝 Concise Prompter — average 399 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,5 +109,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 05:35:38 UTC
+ Last Updated on 07/08/2026 07:09:29 UTC
 <!--END_SECTION:waka-->
