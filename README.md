@@ -48,8 +48,8 @@ On the database front, I bring experience with both relational and non-relationa
 ```text
 🌞 Morning                1601 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
 🌆 Daytime                5084 commits        ███████░░░░░░░░░░░░░░░░░░   26.97 % 
-🌃 Evening                9725 commits        █████████████░░░░░░░░░░░░   51.59 % 
-🌙 Night                  2442 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+🌃 Evening                9725 commits        █████████████░░░░░░░░░░░░   51.58 % 
+🌙 Night                  2444 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
 ```
 
 
@@ -79,7 +79,7 @@ Mac                      1 hr 9 mins         ███░░░░░░░░�
 
 💵 $383.70 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 79 AI Prompts
+🧠 15 AI Sessions, 78 AI Prompts
 
 Opus                     1,991 lines         █████████████████████████   100.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -87,7 +87,7 @@ Composer                 0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.7% of written lines came from AI
-📝 Concise Prompter — average 399 characters per prompt
+📝 Concise Prompter — average 333 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.58% of changed lines were hand-edited
 ```
@@ -95,11 +95,11 @@ Composer                 0 lines             ░░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               76 repos            ████████████████░░░░░░░░░   62.81 % 
+JavaScript               77 repos            ████████████████░░░░░░░░░   63.64 % 
 Python                   18 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
 HTML                     10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
 TypeScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+TSQL                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 ```
 
 
@@ -109,5 +109,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 04:53:06 UTC
+ Last Updated on 08/08/2026 06:39:39 UTC
 <!--END_SECTION:waka-->
