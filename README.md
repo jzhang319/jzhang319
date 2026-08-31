@@ -48,8 +48,8 @@ On the database front, I bring experience with both relational and non-relationa
 ```text
 🌞 Morning                1601 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
 🌆 Daytime                5084 commits        ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-🌃 Evening                9725 commits        █████████████░░░░░░░░░░░░   51.44 % 
-🌙 Night                  2497 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+🌃 Evening                9725 commits        █████████████░░░░░░░░░░░░   51.43 % 
+🌙 Night                  2499 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
 ```
 
 
@@ -57,21 +57,21 @@ On the database front, I bring experience with both relational and non-relationa
 
 ```text
 💬 Programming Languages: 
-Markdown                 6 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   33.23 % 
-Python                   6 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   31.17 % 
-Other                    5 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   27.62 % 
-Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-PowerShell               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Markdown                 6 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   33.13 % 
+Python                   6 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   31.08 % 
+Other                    5 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   27.84 % 
+Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+PowerShell               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 💻 Operating System: 
-Windows                  18 hrs 23 mins      ███████████████████████░░   92.85 % 
-Mac                      1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Windows                  18 hrs 23 mins      ███████████████████████░░   92.57 % 
+Mac                      1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 38 mins (94.09%)
+⏱ AI Coding Time: 18 hrs 38 mins (93.8%)
 
 ✍️ 8,310 lines written by AI, 6 lines written by hand (99.93% AI-written)
 
@@ -109,5 +109,5 @@ TSQL                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2026 02:28:18 UTC
+ Last Updated on 31/08/2026 10:21:50 UTC
 <!--END_SECTION:waka-->
