@@ -57,21 +57,21 @@ On the database front, I bring experience with both relational and non-relationa
 
 ```text
 💬 Programming Languages: 
-Markdown                 8 hrs 31 mins       ███████████░░░░░░░░░░░░░░   44.32 % 
-Other                    4 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-Python                   2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-HTML                     2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Markdown                 8 hrs 31 mins       ███████████░░░░░░░░░░░░░░   45.38 % 
+Other                    3 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+Python                   2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+HTML                     2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 💻 Operating System: 
-Windows                  16 hrs 23 mins      █████████████████████░░░░   85.28 % 
-Mac                      2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Windows                  16 hrs 23 mins      ██████████████████████░░░   87.31 % 
+Mac                      2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 21 mins (85.08%)
+⏱ AI Coding Time: 16 hrs 21 mins (87.11%)
 
 ✍️ 5,338 lines written by AI, 2 lines written by hand (99.96% AI-written)
 
@@ -109,5 +109,5 @@ TSQL                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 06:50:31 UTC
+ Last Updated on 06/09/2026 11:55:39 UTC
 <!--END_SECTION:waka-->
