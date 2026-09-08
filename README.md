@@ -49,7 +49,7 @@ On the database front, I bring experience with both relational and non-relationa
 🌞 Morning                1641 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
 🌆 Daytime                5234 commits        ███████░░░░░░░░░░░░░░░░░░   26.15 % 
 🌃 Evening                10436 commits       █████████████░░░░░░░░░░░░   52.14 % 
-🌙 Night                  2703 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+🌙 Night                  2705 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
 ```
 
 
@@ -57,39 +57,39 @@ On the database front, I bring experience with both relational and non-relationa
 
 ```text
 💬 Programming Languages: 
-Markdown                 8 hrs 36 mins       ███████████░░░░░░░░░░░░░░   45.77 % 
-Other                    3 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-Python                   2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-HTML                     2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Markdown                 6 hrs               ██████████░░░░░░░░░░░░░░░   39.21 % 
+Other                    3 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+HTML                     2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
+Python                   2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 💻 Operating System: 
-Windows                  16 hrs 23 mins      ██████████████████████░░░   87.19 % 
-Mac                      2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Windows                  12 hrs 56 mins      █████████████████████░░░░   84.38 % 
+Mac                      2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 26 mins (87.45%)
+⏱ AI Coding Time: 12 hrs 59 mins (84.69%)
 
-✍️ 5,621 lines written by AI, 2 lines written by hand (99.96% AI-written)
+✍️ 4,271 lines written by AI, 2 lines written by hand (99.95% AI-written)
 
-🔤 9,021,646 Input Tokens, 1,047,858 Output Tokens
+🔤 8,175,667 Input Tokens, 850,946 Output Tokens
 
-💵 $243.28 Estimated AI Cost This Week
+💵 $212.03 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 387 AI Prompts
+🧠 18 AI Sessions, 304 AI Prompts
 
-Opus                     5,880 lines         █████████████████████████   100.00 % 
+Opus                     4,526 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 1,769 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
+🤖 AI-Driven — 99.95% of written lines came from AI
+📚 Verbose Prompter — average 2,021 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,5 +109,5 @@ TSQL                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 02:10:27 UTC
+ Last Updated on 08/09/2026 08:36:37 UTC
 <!--END_SECTION:waka-->
