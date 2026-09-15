@@ -35,9 +35,9 @@ On the database front, I bring experience with both relational and non-relationa
 
 ## My Development Analysis:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C297%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C300%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-296%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-300%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -57,39 +57,39 @@ On the database front, I bring experience with both relational and non-relationa
 
 ```text
 💬 Programming Languages: 
-Other                    8 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   37.76 % 
-Python                   4 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
-Markdown                 4 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
-HTML                     2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Bash                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Other                    8 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   33.09 % 
+Markdown                 5 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+Python                   5 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+HTML                     3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Bash                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 
 💻 Operating System: 
-Windows                  12 hrs 29 mins      ██████████████░░░░░░░░░░░   57.88 % 
-Mac                      9 hrs 5 mins        ███████████░░░░░░░░░░░░░░   42.12 % 
+Windows                  16 hrs 35 mins      ████████████████░░░░░░░░░   64.63 % 
+Mac                      9 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   35.37 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs (55.68%)
+⏱ AI Coding Time: 15 hrs 51 mins (61.77%)
 
-✍️ 8,438 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 9,057 lines written by AI, 3 lines written by hand (99.97% AI-written)
 
-🔤 3,337,204 Input Tokens, 982,651 Output Tokens
+🔤 4,674,938 Input Tokens, 1,249,773 Output Tokens
 
-💵 $193.36 Estimated AI Cost This Week
+💵 $238.65 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 293 AI Prompts
+🧠 17 AI Sessions, 345 AI Prompts
 
-Opus                     8,447 lines         █████████████████████████   100.00 % 
+Opus                     9,065 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 4,103 characters per prompt
-🔁 Iterative Prompter — average 27 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
+🤖 AI-Driven — 99.97% of written lines came from AI
+📚 Verbose Prompter — average 3,752 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
+🚀 High AI Trust — 0.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,5 +109,5 @@ TSQL                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 07:07:36 UTC
+ Last Updated on 15/09/2026 13:06:41 UTC
 <!--END_SECTION:waka-->
