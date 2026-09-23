@@ -41,15 +41,15 @@ On the database front, I bring experience with both relational and non-relationa
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-154.78%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-154.86%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                1682 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-🌆 Daytime                5388 commits        ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
-🌃 Evening                10878 commits       █████████████░░░░░░░░░░░░   52.40 % 
-🌙 Night                  2811 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+🌆 Daytime                5388 commits        ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
+🌃 Evening                10886 commits       █████████████░░░░░░░░░░░░   52.41 % 
+🌙 Night                  2814 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
 ```
 
 
@@ -57,31 +57,31 @@ On the database front, I bring experience with both relational and non-relationa
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   34.98 % 
-Markdown                 3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
-Other                    3 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-HTML                     2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Bash                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Python                   5 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   34.55 % 
+Other                    4 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   30.16 % 
+Markdown                 3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+HTML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 💻 Operating System: 
-Windows                  14 hrs 20 mins      ██████████████████████░░░   86.48 % 
-Mac                      2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Windows                  12 hrs 31 mins      ████████████████████░░░░░   81.01 % 
+Mac                      2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 4 mins (84.92%)
+⏱ AI Coding Time: 12 hrs 24 mins (80.24%)
 
-✍️ 4,398 lines written by AI, 7 lines written by hand (99.84% AI-written)
+✍️ 3,145 lines written by AI, 5 lines written by hand (99.84% AI-written)
 
-🔤 6,494,874 Input Tokens, 1,089,965 Output Tokens
+🔤 5,737,978 Input Tokens, 962,935 Output Tokens
 
-💵 $176.72 Estimated AI Cost This Week
+💵 $135.42 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 283 AI Prompts
+🧠 31 AI Sessions, 282 AI Prompts
 
-Opus                     4,475 lines         █████████████████████████   100.00 % 
+Opus                     3,202 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -89,17 +89,17 @@ Github-Copilot           0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.84% of written lines came from AI
-📚 Verbose Prompter — average 4,375 characters per prompt
+📚 Verbose Prompter — average 4,588 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.27% of changed lines were hand-edited
+🚀 High AI Trust — 0.37% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               77 repos            ████████████████░░░░░░░░░   62.60 % 
+JavaScript               76 repos            ███████████████░░░░░░░░░░   61.79 % 
 Python                   19 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-HTML                     11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+HTML                     12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
 TypeScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
 TSQL                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 ```
@@ -111,5 +111,5 @@ TSQL                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 02:35:12 UTC
+ Last Updated on 23/09/2026 09:02:38 UTC
 <!--END_SECTION:waka-->
