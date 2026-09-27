@@ -43,56 +43,6 @@ On the database front, I bring experience with both relational and non-relationa
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-154.88%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1688 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-🌆 Daytime                5399 commits        ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
-🌃 Evening                10890 commits       █████████████░░░░░░░░░░░░   52.31 % 
-🌙 Night                  2840 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   4 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   32.80 % 
-Markdown                 3 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
-Other                    2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-HTML                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-CSS                      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-
-💻 Operating System: 
-Windows                  12 hrs 16 mins      █████████████████████░░░░   82.82 % 
-Mac                      2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 12 hrs 5 mins (81.58%)
-
-✍️ 1,958 lines written by AI, 5 lines written by hand (99.75% AI-written)
-
-🔤 3,041,664 Input Tokens, 699,861 Output Tokens
-
-💵 $107.00 Estimated AI Cost This Week
-
-🧠 72 AI Sessions, 265 AI Prompts
-
-Opus                     2,090 lines         █████████████████████████   100.00 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.75% of written lines came from AI
-📚 Verbose Prompter — average 2,853 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.58% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -110,5 +60,5 @@ TSQL                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 00:12:37 UTC
+ Last Updated on 27/09/2026 07:26:43 UTC
 <!--END_SECTION:waka-->
