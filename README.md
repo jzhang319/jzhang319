@@ -41,15 +41,15 @@ On the database front, I bring experience with both relational and non-relationa
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-154.88%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-154.89%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1688 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+🌞 Morning                1688 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
 🌆 Daytime                5399 commits        ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
-🌃 Evening                10890 commits       █████████████░░░░░░░░░░░░   52.29 % 
-🌙 Night                  2849 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+🌃 Evening                10890 commits       █████████████░░░░░░░░░░░░   52.28 % 
+🌙 Night                  2852 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
 ```
 
 
@@ -57,41 +57,41 @@ On the database front, I bring experience with both relational and non-relationa
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
-Markdown                 4 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
-Python                   3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-HTML                     2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-CSS                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Markdown                 3 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   26.54 % 
+Python                   3 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
+Other                    2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+HTML                     1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+CSS                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
 
 💻 Operating System: 
-Windows                  9 hrs 53 mins       ██████████████░░░░░░░░░░░   55.95 % 
-Mac                      7 hrs 47 mins       ███████████░░░░░░░░░░░░░░   44.05 % 
+Windows                  9 hrs 44 mins       ██████████████████░░░░░░░   72.49 % 
+Mac                      3 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   27.51 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 1 min (96.31%)
+⏱ AI Coding Time: 13 hrs 25 mins (99.91%)
 
-✍️ 7,754 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,489 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 9,417,895 Input Tokens, 1,362,672 Output Tokens
+🔤 6,742,310 Input Tokens, 653,726 Output Tokens
 
-💵 $230.80 Estimated AI Cost This Week
+💵 $134.80 Estimated AI Cost This Week
 
-🧠 311 AI Sessions, 502 AI Prompts
+🧠 269 AI Sessions, 440 AI Prompts
 
-Opus                     6,904 lines         ██████████████████████░░░   87.85 % 
-Sonnet                   938 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Fable                    17 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Opus                     4,707 lines         █████████████████████████   99.64 % 
+Fable                    17 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,695 characters per prompt
+📚 Verbose Prompter — average 5,274 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.05% of changed lines were hand-edited
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -111,5 +111,5 @@ TSQL                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 01:03:31 UTC
+ Last Updated on 30/09/2026 07:53:10 UTC
 <!--END_SECTION:waka-->
