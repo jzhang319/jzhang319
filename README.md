@@ -49,7 +49,7 @@ On the database front, I bring experience with both relational and non-relationa
 🌞 Morning                1696 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
 🌆 Daytime                5431 commits        ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
 🌃 Evening                10908 commits       █████████████░░░░░░░░░░░░   52.14 % 
-🌙 Night                  2885 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+🌙 Night                  2887 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
 ```
 
 
@@ -57,21 +57,21 @@ On the database front, I bring experience with both relational and non-relationa
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 56 mins       █████████████░░░░░░░░░░░░   52.41 % 
-Python                   56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-HTML                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Markdown                 43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Other                    2 hrs 26 mins       ████████████░░░░░░░░░░░░░   47.69 % 
+Python                   56 mins             █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+HTML                     45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Markdown                 43 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 💻 Operating System: 
-Windows                  2 hrs 58 mins       █████████████░░░░░░░░░░░░   52.90 % 
-Mac                      2 hrs 38 mins       ████████████░░░░░░░░░░░░░   47.10 % 
+Windows                  2 hrs 58 mins       ███████████████░░░░░░░░░░   58.15 % 
+Mac                      2 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   41.85 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 58 mins (52.84%)
+⏱ AI Coding Time: 2 hrs 58 mins (58.07%)
 
 ✍️ 371 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -108,5 +108,5 @@ TSQL                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2026 00:58:06 UTC
+ Last Updated on 12/10/2026 08:27:36 UTC
 <!--END_SECTION:waka-->
