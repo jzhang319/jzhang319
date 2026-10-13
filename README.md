@@ -39,7 +39,7 @@ On the database front, I bring experience with both relational and non-relationa
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-339%20hrs%2018%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-154.92%20million%20lines%20of%20code-blue?style=flat)
 
@@ -47,9 +47,9 @@ On the database front, I bring experience with both relational and non-relationa
 
 ```text
 🌞 Morning                1697 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-🌆 Daytime                5431 commits        ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
+🌆 Daytime                5431 commits        ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
 🌃 Evening                10908 commits       █████████████░░░░░░░░░░░░   52.13 % 
-🌙 Night                  2887 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+🌙 Night                  2890 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
 ```
 
 
@@ -57,38 +57,39 @@ On the database front, I bring experience with both relational and non-relationa
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 26 mins       ████████████░░░░░░░░░░░░░   47.69 % 
-Python                   56 mins             █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-HTML                     45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Markdown                 43 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Other                    1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   28.81 % 
+Python                   1 hr 16 mins        ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+Markdown                 1 hr                ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+HTML                     54 mins             █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 💻 Operating System: 
-Windows                  2 hrs 58 mins       ███████████████░░░░░░░░░░   58.15 % 
-Mac                      2 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   41.85 % 
+Windows                  3 hrs 37 mins       ████████████████████░░░░░   80.06 % 
+Mac                      54 mins             █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 58 mins (58.07%)
+⏱ AI Coding Time: 3 hrs 37 mins (80.06%)
 
-✍️ 371 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 893 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,610,261 Input Tokens, 104,513 Output Tokens
+🔤 2,558,147 Input Tokens, 174,794 Output Tokens
 
-💵 $26.35 Estimated AI Cost This Week
+💵 $32.06 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 84 AI Prompts
+🧠 10 AI Sessions, 83 AI Prompts
 
-Opus                     375 lines           █████████████████████████   100.00 % 
+Opus                     897 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,005 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.27% of changed lines were hand-edited
+📄 Detailed Prompter — average 1,048 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,5 +109,5 @@ TSQL                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 01:51:36 UTC
+ Last Updated on 13/10/2026 08:49:33 UTC
 <!--END_SECTION:waka-->
