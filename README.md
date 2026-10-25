@@ -41,7 +41,7 @@ On the database front, I bring experience with both relational and non-relationa
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-154.94%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-154.96%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -49,7 +49,7 @@ On the database front, I bring experience with both relational and non-relationa
 🌞 Morning                1697 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
 🌆 Daytime                5431 commits        ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
 🌃 Evening                10908 commits       █████████████░░░░░░░░░░░░   52.04 % 
-🌙 Night                  2923 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+🌙 Night                  2925 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
 ```
 
 
@@ -57,21 +57,21 @@ On the database front, I bring experience with both relational and non-relationa
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   34.99 % 
-Python                   3 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
-HTML                     2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-JavaScript               1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-CSS                      1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Markdown                 5 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   34.75 % 
+Python                   3 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
+HTML                     2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+JavaScript               1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+CSS                      1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
 
 💻 Operating System: 
-Windows                  14 hrs 46 mins      █████████████████████████   99.13 % 
-Mac                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Windows                  14 hrs 46 mins      █████████████████████████   98.47 % 
+Mac                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 46 mins (99.13%)
+⏱ AI Coding Time: 14 hrs 46 mins (98.48%)
 
 ✍️ 4,379 lines written by AI, 2 lines written by hand (99.95% AI-written)
 
@@ -111,5 +111,5 @@ TSQL                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 02:27:20 UTC
+ Last Updated on 25/10/2026 08:57:28 UTC
 <!--END_SECTION:waka-->
