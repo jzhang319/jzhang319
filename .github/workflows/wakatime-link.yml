@@ -13,7 +13,9 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # WakaTime API keys only work for IDE plugins from Nov 1, 2026.
+          # This input now takes a personal OAuth token (sent the same way, as ?api_key=).
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_OAUTH_TOKEN }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LINES_OF_CODE : True
           SHOW_EDITORS : False
