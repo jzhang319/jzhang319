@@ -35,21 +35,21 @@ On the database front, I bring experience with both relational and non-relationa
 
 ## My Development Analysis:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C385%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C386%20hrs%2030%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-389%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-155.17%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-157.90%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1710 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-🌆 Daytime                5498 commits        ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
-🌃 Evening                11121 commits       █████████████░░░░░░░░░░░░   52.16 % 
-🌙 Night                  2992 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+🌞 Morning                2036 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+🌆 Daytime                6116 commits        ███████░░░░░░░░░░░░░░░░░░   26.21 % 
+🌃 Evening                11978 commits       █████████████░░░░░░░░░░░░   51.33 % 
+🌙 Night                  3206 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
 ```
 
 
@@ -57,21 +57,21 @@ On the database front, I bring experience with both relational and non-relationa
 
 ```text
 💬 Programming Languages: 
-Markdown                 10 hrs 8 mins       ████████████░░░░░░░░░░░░░   49.67 % 
-HTML                     2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Python                   2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Other                    1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-YAML                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Markdown                 11 hrs 19 mins      ████████████░░░░░░░░░░░░░   46.19 % 
+Other                    4 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+HTML                     2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Python                   2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+YAML                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 
 💻 Operating System: 
-Windows                  20 hrs 18 mins      █████████████████████████   99.51 % 
-Mac                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Windows                  20 hrs 18 mins      █████████████████████░░░░   82.87 % 
+Mac                      4 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 46 mins (96.89%)
+⏱ AI Coding Time: 19 hrs 46 mins (80.69%)
 
 ✍️ 10,891 lines written by AI, 5 lines written by hand (99.95% AI-written)
 
@@ -111,5 +111,5 @@ TSQL                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jzhang319/jzhang319/master/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2026 11:02:01 UTC
+ Last Updated on 01/11/2026 17:33:53 UTC
 <!--END_SECTION:waka-->
